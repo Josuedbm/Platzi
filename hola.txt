@@ -11,3 +11,5 @@ Aaaaaa.
 Ufa ufa ufa.
 
 Cagadales con el usuario.
+
+Prueba de usuario global sin el usuario local.
